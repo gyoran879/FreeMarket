@@ -42,3 +42,7 @@ laravelを使用したフリーマーケットサイト
 お気に入り一覧画面
 
 ![フリマお気に入りサイト](https://user-images.githubusercontent.com/92624621/184503763-3a89f004-58a8-4863-9ef3-1eaa16c15133.png)
+
+商品詳細画面
+
+![フリマ商品詳細](https://user-images.githubusercontent.com/92624621/184503796-69c7de8e-7f65-4a78-aac2-9522ce38aa36.png)
