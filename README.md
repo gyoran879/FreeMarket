@@ -38,3 +38,7 @@ laravelを使用したフリーマーケットサイト
 商品画像の編集画面
 
 ![フリマ 商品画像の変更](https://user-images.githubusercontent.com/92624621/184503737-4fdb3ac0-bb72-4a13-a772-ccc7802dca23.png)
+
+お気に入り一覧画面
+
+![フリマお気に入りサイト](https://user-images.githubusercontent.com/92624621/184503763-3a89f004-58a8-4863-9ef3-1eaa16c15133.png)
