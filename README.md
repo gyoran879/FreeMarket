@@ -46,3 +46,12 @@ laravelを使用したフリーマーケットサイト
 商品詳細画面
 
 ![フリマ商品詳細](https://user-images.githubusercontent.com/92624621/184503796-69c7de8e-7f65-4a78-aac2-9522ce38aa36.png)
+
+購入確認画面
+
+![フリマ購入確認画面](https://user-images.githubusercontent.com/92624621/184503826-533b2baf-ca3f-4827-bf02-fd6e99b1da73.png)
+
+購入完了画面
+
+![フリマ購入完了画面](https://user-images.githubusercontent.com/92624621/184503828-dac78b88-65af-4577-9eea-91a8488c5ec6.png)
+
