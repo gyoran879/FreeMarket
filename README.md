@@ -19,3 +19,4 @@ laravelを使用したフリーマーケットサイト
 
 プロフィール編集画面
 
+![フリマ プロフィール編集](https://user-images.githubusercontent.com/92624621/184503567-47bcfa0f-b0b9-475e-a1c7-7648463d6de0.png)
