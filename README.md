@@ -16,3 +16,6 @@ laravelを使用したフリーマーケットサイト
 プロフィール画面
 
 ![フリマプロフィール画面](https://user-images.githubusercontent.com/92624621/184503468-e1633415-b0e3-4bfa-b5fd-caddbae3d3ef.png)
+
+プロフィール編集画面
+
