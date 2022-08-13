@@ -30,3 +30,7 @@ laravelを使用したフリーマーケットサイト
 新規出品画面
 
 ![フリマ新規出品](https://user-images.githubusercontent.com/92624621/184503664-d3729fac-1e5b-49f5-a9cd-86442782041c.png)
+
+商品情報の編集画面
+
+![フリマ商品情報の編集](https://user-images.githubusercontent.com/92624621/184503697-bec64eb0-5a18-419b-a590-7f8b3ae45c25.png)
