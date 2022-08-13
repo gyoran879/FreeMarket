@@ -26,3 +26,7 @@ laravelを使用したフリーマーケットサイト
 
 出品商品一覧画面
 ![フリマ 出品商品一覧](https://user-images.githubusercontent.com/92624621/184503635-90b5c4cd-5677-4e90-8b3a-13a697f42bc8.png)
+
+新規出品画面
+
+![フリマ新規出品](https://user-images.githubusercontent.com/92624621/184503664-d3729fac-1e5b-49f5-a9cd-86442782041c.png)
