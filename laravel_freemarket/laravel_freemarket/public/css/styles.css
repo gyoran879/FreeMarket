@@ -1,0 +1,30 @@
+/*エラーメッセージ用のスタイル */
+.error {
+    color: red;
+}
+/*成功メッセージ用のスタイル */
+.success {
+    color: green;
+}
+/*削除ボタン用のスタイル */
+.delete {
+    display: inline;
+}
+
+.header_nav {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+
+.header_nav li {
+    margin-right: 30px;
+}
+
+.exhibit_image {
+    list-style: none;
+}
+
+li {
+    list-style:none;
+}
