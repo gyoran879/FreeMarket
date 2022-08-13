@@ -23,3 +23,6 @@ laravelを使用したフリーマーケットサイト
 
 プロフィール画像編集画面
 ![フリマプロフィール画像編集](https://user-images.githubusercontent.com/92624621/184503590-a3aae216-5fe7-48ca-b3fc-0b1b0b7c24c3.png)
+
+出品商品一覧画面
+![フリマ 出品商品一覧](https://user-images.githubusercontent.com/92624621/184503635-90b5c4cd-5677-4e90-8b3a-13a697f42bc8.png)
